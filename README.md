@@ -29,3 +29,15 @@ Project 5: Headline Generator
 **Summary**: A code filled with inputs for three different unbelievable and wacky headlines! 
 
 **Key Features**: Variables are sectioned off for each headline and users are given an input defining what type of word is needed (noun, verb, etc.)
+
+Project 6: Create Task
+
+**Summary**: A code that does a lot of functions involving paint colors!
+
+**Key Features**: Quizzes, random color generator, and color vibes!
+
+Project 7: Slot Machine
+
+**Summary**: This program simulates a slot machine with different outcomes!
+
+**Key Features**: There are different weights and random choices for items that appear in the slot machine. 
