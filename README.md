@@ -32,9 +32,9 @@ Project 5: Headline Generator
 
 Project 6: Create Task
 
-**Summary**: A code that does a lot of functions involving paint colors!
+**Summary**: A code that does a lot of functions like quizzes, random color generator, and color vibes involving paint colors!
 
-**Key Features**: Quizzes, random color generator, and color vibes!
+**Key Features**: User friendly interface and different user options for what they want to do!
 
 Project 7: Slot Machine
 
